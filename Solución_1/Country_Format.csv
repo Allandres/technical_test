@@ -1,0 +1,18 @@
+Country_Format,Country_Code,Country_Name,Format_Code,Format_Name
+CR-1,CR,Costa Rica,1,Walmart
+CR-2,CR,Costa Rica,2,Supermercados
+CR-3,CR,Costa Rica,3,Bodegas
+CR-5,CR,Costa Rica,5,Descuentos
+GT-1,GT,Guatemala,1,Walmart
+GT-2,GT,Guatemala,2,Supermercados
+GT-3,GT,Guatemala,3,Bodegas
+GT-5,GT,Guatemala,5,Descuentos
+HN-3,HN,Honduras,3,Bodegas
+HN-5,HN,Honduras,5,Descuentos
+NI-2,NI,Nicaragua,2,Supermercados
+NI-3,NI,Nicaragua,3,Bodegas
+NI-5,NI,Nicaragua,5,Descuentos
+SV-1,SV,El Salvador,1,Walmart
+SV-2,SV,El Salvador,2,Supermercados
+SV-3,SV,El Salvador,3,Bodegas
+SV-5,SV,El Salvador,5,Descuentos
